@@ -1,6 +1,6 @@
 I tried out a few of the voice assistant designs on Makerworld and tried the ESP32-S3-Box3 and I found all of them to be lacking either in the mic or speaker output so I came up with this design. This utilizes 2 10W 2” full range speakers and 2 INMP441 microphones. The ESP32-S3 I use also includes an external antenna which I find greatly increases wifi signal. 
 
-BOM:
+BOM:  
 1ea 3a+ 12V Power Supply, combined speaker output is up to 20W so you will need at least a 3a power supply 5a is better.  
 1ea 12V input jack that matches the power supply barrel & pin dimensions  
 1ea PCM5102 I2S IIS Lossless Digital Audio DAC  
