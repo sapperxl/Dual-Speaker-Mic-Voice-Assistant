@@ -1,14 +1,14 @@
 I tried out a few of the voice assistant designs on Makerworld and tried the ESP32-S3-Box3 and I found all of them to be lacking either in the mic or speaker output so I came up with this design. This utilizes 2 10W 2” full range speakers and 2 INMP441 microphones. The ESP32-S3 I use also includes an external antenna which I find greatly increases wifi signal. 
 
 BOM:
-1ea 3a+ 12V Power Supply, combined speaker output is up to 20W so you will need at least a 3a power supply 5a is better.
-1ea 12V input jack that matches the power supply barrel & pin dimensions
-1ea PCM5102 I2S IIS Lossless Digital Audio DAC
-1ea PAM8610 2x15W Digital Dual Channel Stereo Audio Amplifier Board
-2ea 10K 1/4watt metal film resistors
-1ea ESP32-S3 Development Board 16MB Flash/8MB PSRAM /w IPEX External Antenna
-1ea 12V to 5V Regulator Buck Converter
-2ea INMP441 Mics
+1ea 3a+ 12V Power Supply, combined speaker output is up to 20W so you will need at least a 3a power supply 5a is better.  
+1ea 12V input jack that matches the power supply barrel & pin dimensions  
+1ea PCM5102 I2S IIS Lossless Digital Audio DAC  
+1ea PAM8610 2x15W Digital Dual Channel Stereo Audio Amplifier Board  
+2ea 10K 1/4watt metal film resistors  
+1ea ESP32-S3 Development Board 16MB Flash/8MB PSRAM /w IPEX External Antenna  
+1ea 12V to 5V Regulator Buck Converter  
+2ea INMP441 Mics  
 
 Keep in mind the 3.5mm output from the PCM5102 is for a line level load, it will not drive headphones but works great with an external self-powered speaker.
 
