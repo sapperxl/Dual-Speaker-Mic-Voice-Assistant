@@ -9,6 +9,8 @@ BOM:
 1ea ESP32-S3 Development Board 16MB Flash/8MB PSRAM /w IPEX External Antenna  
 1ea 12V to 5V Regulator Buck Converter  
 2ea INMP441 Mics  
+2ea 2" 10W Full Range Speakers  
+
 
 Keep in mind the 3.5mm output from the PCM5102 is for a line level load, it will not drive headphones but works great with an external self-powered speaker.
 
