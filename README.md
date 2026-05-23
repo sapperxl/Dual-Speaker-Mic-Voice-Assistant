@@ -18,7 +18,7 @@ On the PCM5102s I got from Amazon none of the solder pads were soldered so I was
 <img width="639" height="519" alt="image" src="https://github.com/user-attachments/assets/c83fa3cf-83b0-4ac1-b8f3-4f9b03d3d754" />
 
 
-Thanks to A. Pauna on Amazon for their review of the PCM5102 that included a schematic and Carey Brown on Amazon that pointed out the PCM5102 solder pad issue on a review. Also 3DMN on Makerworld for their voice assistant design that inspired some of this one.
+Thanks to A. Pauna on Amazon for their review of the PCM5102 that included a schematic and Carey Brown on Amazon that pointed out the PCM5102 solder pad issue on a review. Also 3DMN https://makerworld.com/en/@3DMN on Makerworld for their voice assistant design that inspired some of this one.
 
 PCM5102 Module
 <img width="1386" height="958" alt="image" src="https://github.com/user-attachments/assets/8fcd9d0d-2ba7-4073-a1c8-c2b304238e4d" />
