@@ -15,6 +15,9 @@ BOM:
 Keep in mind the 3.5mm output from the PCM5102 is for a line level load, it will not drive headphones but works great with an external self-powered speaker.
 
 On the PCM5102s I got from Amazon none of the solder pads were soldered so I wasn’t getting any output initially, it should look like this:
+<img width="639" height="519" alt="image" src="https://github.com/user-attachments/assets/c83fa3cf-83b0-4ac1-b8f3-4f9b03d3d754" />
+
+
 Thanks to A. Pauna on Amazon for their review of the PCM5102 that included a schematic and Carey Brown on Amazon that pointed out the PCM5102 solder pad issue on a review. Also 3DMN on Makerworld for their voice assistant design that inspired some of this one.
 
 PCM5102 Module
